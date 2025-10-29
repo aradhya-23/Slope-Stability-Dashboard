@@ -1,0 +1,851 @@
+mine,year,NDVI,slope,rainfall
+Jharia Coal Mine,2008,0.891,39.57,701.0
+Jharia Coal Mine,2009,0.538,8.77,771.0
+Jharia Coal Mine,2010,0.167,23.11,961.6
+Jharia Coal Mine,2011,0.827,10.15,958.7
+Jharia Coal Mine,2012,0.849,25.42,363.4
+Jharia Coal Mine,2013,0.674,30.78,447.7
+Jharia Coal Mine,2014,0.721,35.5,576.5
+Jharia Coal Mine,2015,0.542,18.85,745.7
+Jharia Coal Mine,2016,0.368,35.52,846.4
+Jharia Coal Mine,2017,0.899,42.51,239.5
+Jharia Coal Mine,2018,0.783,16.22,981.4
+Jharia Coal Mine,2019,0.646,6.87,610.4
+Jharia Coal Mine,2020,0.6,43.57,1091.8
+Jharia Coal Mine,2021,0.547,31.96,511.3
+Jharia Coal Mine,2022,0.847,42.46,704.4
+Jharia Coal Mine,2023,0.395,18.65,552.8
+Jharia Coal Mine,2024,0.798,28.23,988.0
+Korba Open Cast,2008,0.15,35.85,518.6
+Korba Open Cast,2009,0.533,22.07,399.7
+Korba Open Cast,2010,0.853,44.49,254.4
+Korba Open Cast,2011,0.623,38.02,292.1
+Korba Open Cast,2012,0.493,37.99,1047.6
+Korba Open Cast,2013,0.517,10.89,292.8
+Korba Open Cast,2014,0.822,16.8,266.3
+Korba Open Cast,2015,0.297,20.75,547.4
+Korba Open Cast,2016,0.215,23.98,1005.6
+Korba Open Cast,2017,0.401,8.02,790.6
+Korba Open Cast,2018,0.556,24.44,690.8
+Korba Open Cast,2019,0.2,39.33,864.6
+Korba Open Cast,2020,0.431,15.13,469.2
+Korba Open Cast,2021,0.75,23.45,941.7
+Korba Open Cast,2022,0.273,25.43,234.1
+Korba Open Cast,2023,0.309,9.97,1132.5
+Korba Open Cast,2024,0.175,20.92,492.9
+Kolar Gold Fields,2008,0.717,44.47,915.7
+Kolar Gold Fields,2009,0.516,30.51,352.5
+Kolar Gold Fields,2010,0.512,40.66,319.9
+Kolar Gold Fields,2011,0.464,6.63,985.5
+Kolar Gold Fields,2012,0.669,40.06,851.3
+Kolar Gold Fields,2013,0.226,19.47,610.6
+Kolar Gold Fields,2014,0.369,5.58,234.4
+Kolar Gold Fields,2015,0.446,37.72,407.5
+Kolar Gold Fields,2016,0.107,20.13,460.8
+Kolar Gold Fields,2017,0.306,33.58,1076.8
+Kolar Gold Fields,2018,0.615,31.95,309.4
+Kolar Gold Fields,2019,0.408,24.38,291.6
+Kolar Gold Fields,2020,0.435,38.44,796.3
+Kolar Gold Fields,2021,0.9,15.74,353.3
+Kolar Gold Fields,2022,0.253,11.43,1031.4
+Kolar Gold Fields,2023,0.261,18.93,256.0
+Kolar Gold Fields,2024,0.401,33.59,421.4
+Dalli-Rajhara Iron Mine,2008,0.184,33.84,605.1
+Dalli-Rajhara Iron Mine,2009,0.109,28.51,710.5
+Dalli-Rajhara Iron Mine,2010,0.137,8.43,406.6
+Dalli-Rajhara Iron Mine,2011,0.493,16.94,753.6
+Dalli-Rajhara Iron Mine,2012,0.422,16.1,463.5
+Dalli-Rajhara Iron Mine,2013,0.678,24.42,289.8
+Dalli-Rajhara Iron Mine,2014,0.523,26.66,439.9
+Dalli-Rajhara Iron Mine,2015,0.418,19.64,478.5
+Dalli-Rajhara Iron Mine,2016,0.629,24.64,367.6
+Dalli-Rajhara Iron Mine,2017,0.567,20.73,506.5
+Dalli-Rajhara Iron Mine,2018,0.703,12.03,674.2
+Dalli-Rajhara Iron Mine,2019,0.73,41.93,979.1
+Dalli-Rajhara Iron Mine,2020,0.885,17.11,1137.8
+Dalli-Rajhara Iron Mine,2021,0.429,9.05,545.1
+Dalli-Rajhara Iron Mine,2022,0.243,20.18,310.3
+Dalli-Rajhara Iron Mine,2023,0.142,40.31,712.7
+Dalli-Rajhara Iron Mine,2024,0.42,35.34,672.3
+Bailadila Iron Ore Mine,2008,0.334,7.2,708.5
+Bailadila Iron Ore Mine,2009,0.654,7.59,711.0
+Bailadila Iron Ore Mine,2010,0.66,34.47,380.4
+Bailadila Iron Ore Mine,2011,0.898,36.59,247.1
+Bailadila Iron Ore Mine,2012,0.427,15.56,371.7
+Bailadila Iron Ore Mine,2013,0.206,30.58,1030.4
+Bailadila Iron Ore Mine,2014,0.305,14.54,1023.3
+Bailadila Iron Ore Mine,2015,0.83,12.27,424.2
+Bailadila Iron Ore Mine,2016,0.612,11.14,800.7
+Bailadila Iron Ore Mine,2017,0.261,8.13,663.2
+Bailadila Iron Ore Mine,2018,0.669,36.98,490.5
+Bailadila Iron Ore Mine,2019,0.525,13.53,443.9
+Bailadila Iron Ore Mine,2020,0.571,42.35,392.3
+Bailadila Iron Ore Mine,2021,0.771,26.38,806.7
+Bailadila Iron Ore Mine,2022,0.438,6.06,325.6
+Bailadila Iron Ore Mine,2023,0.245,30.18,904.1
+Bailadila Iron Ore Mine,2024,0.575,27.32,219.0
+Bokaro Coal Mine,2008,0.133,26.19,227.3
+Bokaro Coal Mine,2009,0.479,39.32,204.3
+Bokaro Coal Mine,2010,0.149,15.52,832.7
+Bokaro Coal Mine,2011,0.139,6.52,915.8
+Bokaro Coal Mine,2012,0.104,32.12,899.1
+Bokaro Coal Mine,2013,0.139,9.56,989.6
+Bokaro Coal Mine,2014,0.768,20.59,315.2
+Bokaro Coal Mine,2015,0.376,39.22,880.5
+Bokaro Coal Mine,2016,0.466,35.09,699.4
+Bokaro Coal Mine,2017,0.853,12.46,403.3
+Bokaro Coal Mine,2018,0.394,15.0,202.2
+Bokaro Coal Mine,2019,0.553,20.07,1168.8
+Bokaro Coal Mine,2020,0.36,16.24,932.2
+Bokaro Coal Mine,2021,0.868,14.73,430.5
+Bokaro Coal Mine,2022,0.467,22.02,841.3
+Bokaro Coal Mine,2023,0.819,20.08,1120.2
+Bokaro Coal Mine,2024,0.645,21.06,556.7
+Singrauli Coalfield,2008,0.236,37.16,968.1
+Singrauli Coalfield,2009,0.856,18.05,883.9
+Singrauli Coalfield,2010,0.471,19.97,957.5
+Singrauli Coalfield,2011,0.162,33.26,487.3
+Singrauli Coalfield,2012,0.862,18.73,1092.4
+Singrauli Coalfield,2013,0.752,29.1,337.3
+Singrauli Coalfield,2014,0.627,17.51,272.2
+Singrauli Coalfield,2015,0.784,7.74,1131.0
+Singrauli Coalfield,2016,0.557,15.36,205.7
+Singrauli Coalfield,2017,0.74,24.06,455.2
+Singrauli Coalfield,2018,0.851,29.73,242.4
+Singrauli Coalfield,2019,0.388,27.5,1124.1
+Singrauli Coalfield,2020,0.788,7.54,661.1
+Singrauli Coalfield,2021,0.648,33.07,938.5
+Singrauli Coalfield,2022,0.523,8.48,265.2
+Singrauli Coalfield,2023,0.57,37.44,281.9
+Singrauli Coalfield,2024,0.383,43.19,1094.3
+Raniganj Coalfield,2008,0.702,36.46,668.0
+Raniganj Coalfield,2009,0.218,41.48,465.2
+Raniganj Coalfield,2010,0.152,9.83,1020.8
+Raniganj Coalfield,2011,0.753,19.05,258.9
+Raniganj Coalfield,2012,0.219,30.3,223.9
+Raniganj Coalfield,2013,0.894,31.65,549.4
+Raniganj Coalfield,2014,0.378,44.93,634.6
+Raniganj Coalfield,2015,0.454,14.12,988.9
+Raniganj Coalfield,2016,0.664,38.11,413.5
+Raniganj Coalfield,2017,0.204,9.31,1114.4
+Raniganj Coalfield,2018,0.897,33.82,494.7
+Raniganj Coalfield,2019,0.573,8.05,759.5
+Raniganj Coalfield,2020,0.55,38.61,1066.0
+Raniganj Coalfield,2021,0.691,27.24,1021.3
+Raniganj Coalfield,2022,0.891,8.63,209.1
+Raniganj Coalfield,2023,0.427,37.5,572.5
+Raniganj Coalfield,2024,0.24,41.32,392.8
+Neyveli Lignite Mine,2008,0.413,34.53,1068.0
+Neyveli Lignite Mine,2009,0.679,42.91,427.1
+Neyveli Lignite Mine,2010,0.502,42.3,830.1
+Neyveli Lignite Mine,2011,0.204,36.42,543.0
+Neyveli Lignite Mine,2012,0.322,14.4,474.1
+Neyveli Lignite Mine,2013,0.279,38.41,883.4
+Neyveli Lignite Mine,2014,0.144,13.38,1178.1
+Neyveli Lignite Mine,2015,0.205,33.14,227.2
+Neyveli Lignite Mine,2016,0.6,23.17,855.6
+Neyveli Lignite Mine,2017,0.862,14.66,356.4
+Neyveli Lignite Mine,2018,0.593,9.81,954.7
+Neyveli Lignite Mine,2019,0.611,36.72,979.3
+Neyveli Lignite Mine,2020,0.772,40.78,1196.0
+Neyveli Lignite Mine,2021,0.832,41.34,979.6
+Neyveli Lignite Mine,2022,0.831,40.32,700.2
+Neyveli Lignite Mine,2023,0.452,34.54,434.2
+Neyveli Lignite Mine,2024,0.29,20.16,922.6
+Talcher Coal Mine,2008,0.727,44.71,963.7
+Talcher Coal Mine,2009,0.812,10.4,775.5
+Talcher Coal Mine,2010,0.293,9.62,295.4
+Talcher Coal Mine,2011,0.349,31.04,765.8
+Talcher Coal Mine,2012,0.132,34.96,382.2
+Talcher Coal Mine,2013,0.202,11.25,1165.2
+Talcher Coal Mine,2014,0.622,37.37,533.7
+Talcher Coal Mine,2015,0.167,9.18,217.0
+Talcher Coal Mine,2016,0.343,28.04,372.1
+Talcher Coal Mine,2017,0.583,8.22,370.6
+Talcher Coal Mine,2018,0.48,39.69,1176.2
+Talcher Coal Mine,2019,0.752,15.98,695.5
+Talcher Coal Mine,2020,0.225,26.33,612.5
+Talcher Coal Mine,2021,0.166,40.27,652.1
+Talcher Coal Mine,2022,0.679,28.89,228.8
+Talcher Coal Mine,2023,0.13,28.8,571.1
+Talcher Coal Mine,2024,0.541,13.66,1056.3
+Panna Diamond Mine,2008,0.243,30.94,252.4
+Panna Diamond Mine,2009,0.573,25.17,1106.4
+Panna Diamond Mine,2010,0.517,37.16,938.6
+Panna Diamond Mine,2011,0.893,38.29,1022.8
+Panna Diamond Mine,2012,0.753,17.48,644.6
+Panna Diamond Mine,2013,0.188,8.16,574.8
+Panna Diamond Mine,2014,0.608,44.02,495.4
+Panna Diamond Mine,2015,0.737,26.01,596.1
+Panna Diamond Mine,2016,0.88,26.29,663.7
+Panna Diamond Mine,2017,0.492,25.54,825.3
+Panna Diamond Mine,2018,0.667,38.24,339.2
+Panna Diamond Mine,2019,0.633,22.62,565.7
+Panna Diamond Mine,2020,0.537,26.81,1067.0
+Panna Diamond Mine,2021,0.874,27.27,736.7
+Panna Diamond Mine,2022,0.891,19.44,941.3
+Panna Diamond Mine,2023,0.16,18.71,602.4
+Panna Diamond Mine,2024,0.18,28.94,942.7
+Joda East Iron Mine,2008,0.226,28.55,930.4
+Joda East Iron Mine,2009,0.32,41.28,762.8
+Joda East Iron Mine,2010,0.836,44.01,942.5
+Joda East Iron Mine,2011,0.202,36.86,883.3
+Joda East Iron Mine,2012,0.319,23.82,1151.1
+Joda East Iron Mine,2013,0.806,22.27,484.0
+Joda East Iron Mine,2014,0.846,9.23,220.1
+Joda East Iron Mine,2015,0.202,20.48,1076.5
+Joda East Iron Mine,2016,0.791,44.12,763.5
+Joda East Iron Mine,2017,0.322,29.41,1052.5
+Joda East Iron Mine,2018,0.212,21.38,421.7
+Joda East Iron Mine,2019,0.119,39.6,536.2
+Joda East Iron Mine,2020,0.323,12.21,752.2
+Joda East Iron Mine,2021,0.506,35.5,843.4
+Joda East Iron Mine,2022,0.488,20.03,1071.5
+Joda East Iron Mine,2023,0.405,17.81,678.9
+Joda East Iron Mine,2024,0.796,16.63,436.6
+Bicholim Iron Mine,2008,0.631,17.97,731.8
+Bicholim Iron Mine,2009,0.438,42.48,468.0
+Bicholim Iron Mine,2010,0.159,12.51,647.0
+Bicholim Iron Mine,2011,0.425,30.08,1179.3
+Bicholim Iron Mine,2012,0.27,22.71,1197.3
+Bicholim Iron Mine,2013,0.752,25.7,233.5
+Bicholim Iron Mine,2014,0.668,39.92,851.1
+Bicholim Iron Mine,2015,0.74,27.37,728.1
+Bicholim Iron Mine,2016,0.437,28.93,1088.3
+Bicholim Iron Mine,2017,0.255,20.08,770.8
+Bicholim Iron Mine,2018,0.209,18.53,1013.3
+Bicholim Iron Mine,2019,0.196,16.56,450.6
+Bicholim Iron Mine,2020,0.362,35.64,833.2
+Bicholim Iron Mine,2021,0.188,23.79,993.0
+Bicholim Iron Mine,2022,0.328,33.57,326.8
+Bicholim Iron Mine,2023,0.428,23.56,365.1
+Bicholim Iron Mine,2024,0.464,21.97,778.2
+Sukinda Chromite Mine,2008,0.119,16.49,499.1
+Sukinda Chromite Mine,2009,0.483,23.75,1160.5
+Sukinda Chromite Mine,2010,0.338,38.54,538.7
+Sukinda Chromite Mine,2011,0.283,19.29,446.7
+Sukinda Chromite Mine,2012,0.394,34.03,450.2
+Sukinda Chromite Mine,2013,0.873,33.28,475.0
+Sukinda Chromite Mine,2014,0.123,21.5,746.1
+Sukinda Chromite Mine,2015,0.642,6.08,354.8
+Sukinda Chromite Mine,2016,0.72,33.9,564.5
+Sukinda Chromite Mine,2017,0.688,21.24,1054.9
+Sukinda Chromite Mine,2018,0.537,11.03,1197.1
+Sukinda Chromite Mine,2019,0.511,9.45,565.3
+Sukinda Chromite Mine,2020,0.219,26.75,818.4
+Sukinda Chromite Mine,2021,0.757,27.56,912.7
+Sukinda Chromite Mine,2022,0.559,41.29,207.5
+Sukinda Chromite Mine,2023,0.307,18.7,782.6
+Sukinda Chromite Mine,2024,0.559,11.94,846.5
+Hutti Gold Mine,2008,0.111,26.08,340.4
+Hutti Gold Mine,2009,0.479,22.11,258.0
+Hutti Gold Mine,2010,0.543,37.77,789.8
+Hutti Gold Mine,2011,0.741,28.03,308.3
+Hutti Gold Mine,2012,0.619,41.17,949.3
+Hutti Gold Mine,2013,0.892,41.85,294.6
+Hutti Gold Mine,2014,0.129,12.83,1065.2
+Hutti Gold Mine,2015,0.884,10.67,969.3
+Hutti Gold Mine,2016,0.663,27.82,821.1
+Hutti Gold Mine,2017,0.741,20.08,371.5
+Hutti Gold Mine,2018,0.287,25.71,854.7
+Hutti Gold Mine,2019,0.688,7.23,1009.7
+Hutti Gold Mine,2020,0.469,17.63,443.2
+Hutti Gold Mine,2021,0.588,40.26,581.2
+Hutti Gold Mine,2022,0.243,36.7,408.9
+Hutti Gold Mine,2023,0.52,26.42,1127.7
+Hutti Gold Mine,2024,0.86,43.61,767.4
+Malanjkhand Copper Mine,2008,0.514,17.28,845.9
+Malanjkhand Copper Mine,2009,0.157,39.36,1024.0
+Malanjkhand Copper Mine,2010,0.246,35.73,1030.8
+Malanjkhand Copper Mine,2011,0.528,36.43,1101.5
+Malanjkhand Copper Mine,2012,0.852,37.3,968.9
+Malanjkhand Copper Mine,2013,0.78,26.67,393.7
+Malanjkhand Copper Mine,2014,0.639,13.68,984.9
+Malanjkhand Copper Mine,2015,0.6,36.59,540.5
+Malanjkhand Copper Mine,2016,0.155,14.56,319.8
+Malanjkhand Copper Mine,2017,0.859,8.61,887.4
+Malanjkhand Copper Mine,2018,0.744,27.79,288.7
+Malanjkhand Copper Mine,2019,0.328,16.72,1029.4
+Malanjkhand Copper Mine,2020,0.206,36.3,889.1
+Malanjkhand Copper Mine,2021,0.563,42.62,870.3
+Malanjkhand Copper Mine,2022,0.829,37.4,360.5
+Malanjkhand Copper Mine,2023,0.205,25.53,703.8
+Malanjkhand Copper Mine,2024,0.104,5.86,525.1
+Chiria Iron Ore Mine,2008,0.45,8.29,658.0
+Chiria Iron Ore Mine,2009,0.563,26.46,939.3
+Chiria Iron Ore Mine,2010,0.834,32.48,890.8
+Chiria Iron Ore Mine,2011,0.492,13.02,885.2
+Chiria Iron Ore Mine,2012,0.368,19.15,583.0
+Chiria Iron Ore Mine,2013,0.879,21.0,932.4
+Chiria Iron Ore Mine,2014,0.586,10.8,471.7
+Chiria Iron Ore Mine,2015,0.103,32.67,1016.3
+Chiria Iron Ore Mine,2016,0.117,21.38,309.8
+Chiria Iron Ore Mine,2017,0.268,13.03,1062.8
+Chiria Iron Ore Mine,2018,0.169,30.37,320.4
+Chiria Iron Ore Mine,2019,0.116,19.33,517.9
+Chiria Iron Ore Mine,2020,0.12,5.86,697.6
+Chiria Iron Ore Mine,2021,0.46,22.29,565.6
+Chiria Iron Ore Mine,2022,0.144,30.1,565.4
+Chiria Iron Ore Mine,2023,0.706,15.09,1186.7
+Chiria Iron Ore Mine,2024,0.438,33.57,504.4
+Piparwar Coal Mine,2008,0.189,23.75,208.7
+Piparwar Coal Mine,2009,0.751,43.17,1031.9
+Piparwar Coal Mine,2010,0.618,16.3,865.1
+Piparwar Coal Mine,2011,0.732,25.83,1178.5
+Piparwar Coal Mine,2012,0.363,35.24,733.9
+Piparwar Coal Mine,2013,0.419,33.59,431.5
+Piparwar Coal Mine,2014,0.258,31.85,968.3
+Piparwar Coal Mine,2015,0.496,42.13,716.5
+Piparwar Coal Mine,2016,0.443,40.26,524.0
+Piparwar Coal Mine,2017,0.42,30.22,642.9
+Piparwar Coal Mine,2018,0.343,31.35,399.0
+Piparwar Coal Mine,2019,0.292,29.0,575.4
+Piparwar Coal Mine,2020,0.142,41.85,763.7
+Piparwar Coal Mine,2021,0.738,38.8,506.3
+Piparwar Coal Mine,2022,0.529,30.79,935.1
+Piparwar Coal Mine,2023,0.808,30.68,531.4
+Piparwar Coal Mine,2024,0.504,31.27,250.7
+Lakhanpur Coal Mine,2008,0.491,15.44,669.8
+Lakhanpur Coal Mine,2009,0.648,12.41,218.7
+Lakhanpur Coal Mine,2010,0.598,20.01,309.8
+Lakhanpur Coal Mine,2011,0.698,30.21,692.5
+Lakhanpur Coal Mine,2012,0.367,5.15,443.1
+Lakhanpur Coal Mine,2013,0.335,42.08,852.5
+Lakhanpur Coal Mine,2014,0.358,20.0,525.3
+Lakhanpur Coal Mine,2015,0.624,6.73,533.9
+Lakhanpur Coal Mine,2016,0.101,39.82,1105.7
+Lakhanpur Coal Mine,2017,0.475,32.35,788.9
+Lakhanpur Coal Mine,2018,0.205,32.63,659.3
+Lakhanpur Coal Mine,2019,0.843,27.93,965.8
+Lakhanpur Coal Mine,2020,0.877,23.87,611.0
+Lakhanpur Coal Mine,2021,0.588,37.07,1126.7
+Lakhanpur Coal Mine,2022,0.495,24.43,486.6
+Lakhanpur Coal Mine,2023,0.866,42.67,1004.7
+Lakhanpur Coal Mine,2024,0.4,8.32,636.8
+Dudhichua Coal Mine,2008,0.745,35.26,286.7
+Dudhichua Coal Mine,2009,0.181,7.58,459.6
+Dudhichua Coal Mine,2010,0.218,19.38,467.0
+Dudhichua Coal Mine,2011,0.829,41.02,517.0
+Dudhichua Coal Mine,2012,0.397,14.29,553.8
+Dudhichua Coal Mine,2013,0.22,32.88,395.0
+Dudhichua Coal Mine,2014,0.28,37.51,520.3
+Dudhichua Coal Mine,2015,0.468,36.3,725.4
+Dudhichua Coal Mine,2016,0.345,43.0,497.0
+Dudhichua Coal Mine,2017,0.762,39.77,704.1
+Dudhichua Coal Mine,2018,0.812,14.87,482.5
+Dudhichua Coal Mine,2019,0.392,30.59,610.3
+Dudhichua Coal Mine,2020,0.136,21.61,1144.6
+Dudhichua Coal Mine,2021,0.491,41.4,624.0
+Dudhichua Coal Mine,2022,0.25,14.09,264.6
+Dudhichua Coal Mine,2023,0.113,23.19,738.8
+Dudhichua Coal Mine,2024,0.111,16.55,1144.3
+Kudremukh Iron Ore Mine,2008,0.247,26.73,500.0
+Kudremukh Iron Ore Mine,2009,0.837,38.35,299.9
+Kudremukh Iron Ore Mine,2010,0.627,42.56,597.1
+Kudremukh Iron Ore Mine,2011,0.625,34.56,592.1
+Kudremukh Iron Ore Mine,2012,0.495,9.0,469.2
+Kudremukh Iron Ore Mine,2013,0.298,34.77,450.3
+Kudremukh Iron Ore Mine,2014,0.84,14.39,551.8
+Kudremukh Iron Ore Mine,2015,0.865,15.8,502.0
+Kudremukh Iron Ore Mine,2016,0.783,13.64,263.0
+Kudremukh Iron Ore Mine,2017,0.45,30.48,407.7
+Kudremukh Iron Ore Mine,2018,0.13,26.04,409.1
+Kudremukh Iron Ore Mine,2019,0.181,16.11,370.8
+Kudremukh Iron Ore Mine,2020,0.306,20.8,1164.2
+Kudremukh Iron Ore Mine,2021,0.77,35.31,974.7
+Kudremukh Iron Ore Mine,2022,0.896,17.18,1171.9
+Kudremukh Iron Ore Mine,2023,0.76,25.58,455.5
+Kudremukh Iron Ore Mine,2024,0.769,26.15,324.6
+Rajmahal Coal Mine,2008,0.703,6.55,322.0
+Rajmahal Coal Mine,2009,0.516,24.88,621.1
+Rajmahal Coal Mine,2010,0.317,23.95,385.7
+Rajmahal Coal Mine,2011,0.609,42.68,923.4
+Rajmahal Coal Mine,2012,0.344,42.35,996.9
+Rajmahal Coal Mine,2013,0.878,13.69,403.5
+Rajmahal Coal Mine,2014,0.16,37.14,555.4
+Rajmahal Coal Mine,2015,0.402,11.37,406.3
+Rajmahal Coal Mine,2016,0.804,17.76,243.4
+Rajmahal Coal Mine,2017,0.66,11.99,673.1
+Rajmahal Coal Mine,2018,0.885,43.41,1023.6
+Rajmahal Coal Mine,2019,0.239,9.64,235.0
+Rajmahal Coal Mine,2020,0.893,18.33,624.4
+Rajmahal Coal Mine,2021,0.831,22.34,377.0
+Rajmahal Coal Mine,2022,0.439,22.08,245.4
+Rajmahal Coal Mine,2023,0.738,25.3,858.8
+Rajmahal Coal Mine,2024,0.593,43.82,250.3
+Kailash Nagar Coal Mine,2008,0.817,44.89,1065.1
+Kailash Nagar Coal Mine,2009,0.175,18.86,569.1
+Kailash Nagar Coal Mine,2010,0.827,28.74,980.1
+Kailash Nagar Coal Mine,2011,0.67,29.33,719.9
+Kailash Nagar Coal Mine,2012,0.408,34.36,394.5
+Kailash Nagar Coal Mine,2013,0.225,43.8,1151.4
+Kailash Nagar Coal Mine,2014,0.306,44.62,678.0
+Kailash Nagar Coal Mine,2015,0.481,13.04,688.1
+Kailash Nagar Coal Mine,2016,0.135,25.92,307.4
+Kailash Nagar Coal Mine,2017,0.12,33.34,939.0
+Kailash Nagar Coal Mine,2018,0.513,36.87,429.3
+Kailash Nagar Coal Mine,2019,0.71,8.31,939.5
+Kailash Nagar Coal Mine,2020,0.724,14.55,1007.6
+Kailash Nagar Coal Mine,2021,0.826,39.67,360.8
+Kailash Nagar Coal Mine,2022,0.263,6.29,968.4
+Kailash Nagar Coal Mine,2023,0.232,9.46,555.4
+Kailash Nagar Coal Mine,2024,0.554,18.61,615.4
+Singareni Collieries,2008,0.844,40.86,346.1
+Singareni Collieries,2009,0.467,31.24,281.3
+Singareni Collieries,2010,0.104,28.41,777.7
+Singareni Collieries,2011,0.111,13.29,789.9
+Singareni Collieries,2012,0.285,10.42,300.3
+Singareni Collieries,2013,0.62,42.97,407.3
+Singareni Collieries,2014,0.234,25.17,294.8
+Singareni Collieries,2015,0.336,30.34,323.6
+Singareni Collieries,2016,0.169,15.63,857.5
+Singareni Collieries,2017,0.546,8.02,1072.3
+Singareni Collieries,2018,0.285,21.53,244.6
+Singareni Collieries,2019,0.471,41.61,641.5
+Singareni Collieries,2020,0.333,9.96,1197.8
+Singareni Collieries,2021,0.899,32.43,220.9
+Singareni Collieries,2022,0.784,29.35,1164.8
+Singareni Collieries,2023,0.608,29.63,1000.3
+Singareni Collieries,2024,0.619,37.68,386.2
+Lingaraj Coal Mine,2008,0.543,34.04,988.5
+Lingaraj Coal Mine,2009,0.241,21.44,590.6
+Lingaraj Coal Mine,2010,0.562,11.1,219.1
+Lingaraj Coal Mine,2011,0.103,7.22,318.6
+Lingaraj Coal Mine,2012,0.275,18.3,863.6
+Lingaraj Coal Mine,2013,0.859,34.86,781.8
+Lingaraj Coal Mine,2014,0.827,33.08,429.7
+Lingaraj Coal Mine,2015,0.796,17.25,549.9
+Lingaraj Coal Mine,2016,0.677,33.13,840.1
+Lingaraj Coal Mine,2017,0.844,19.58,931.3
+Lingaraj Coal Mine,2018,0.488,33.55,527.1
+Lingaraj Coal Mine,2019,0.135,21.88,231.6
+Lingaraj Coal Mine,2020,0.179,32.57,1184.4
+Lingaraj Coal Mine,2021,0.399,39.5,317.0
+Lingaraj Coal Mine,2022,0.128,34.83,1103.0
+Lingaraj Coal Mine,2023,0.688,30.18,764.7
+Lingaraj Coal Mine,2024,0.685,36.16,747.7
+North Eastern Coalfields,2008,0.198,6.68,863.3
+North Eastern Coalfields,2009,0.651,26.76,701.3
+North Eastern Coalfields,2010,0.879,21.72,1130.7
+North Eastern Coalfields,2011,0.82,22.64,1144.3
+North Eastern Coalfields,2012,0.883,8.7,380.2
+North Eastern Coalfields,2013,0.434,21.19,611.8
+North Eastern Coalfields,2014,0.723,20.29,1180.9
+North Eastern Coalfields,2015,0.696,24.1,419.1
+North Eastern Coalfields,2016,0.898,24.18,502.8
+North Eastern Coalfields,2017,0.788,20.31,1179.3
+North Eastern Coalfields,2018,0.62,12.76,602.7
+North Eastern Coalfields,2019,0.609,17.4,1021.0
+North Eastern Coalfields,2020,0.778,43.0,952.9
+North Eastern Coalfields,2021,0.198,29.67,205.0
+North Eastern Coalfields,2022,0.22,30.72,225.9
+North Eastern Coalfields,2023,0.382,14.35,289.3
+North Eastern Coalfields,2024,0.389,41.28,1133.7
+Gevra Open Cast,2008,0.637,9.98,448.1
+Gevra Open Cast,2009,0.75,32.79,1054.0
+Gevra Open Cast,2010,0.364,44.0,853.3
+Gevra Open Cast,2011,0.295,43.8,989.1
+Gevra Open Cast,2012,0.692,27.6,249.4
+Gevra Open Cast,2013,0.696,36.81,741.7
+Gevra Open Cast,2014,0.65,19.92,549.2
+Gevra Open Cast,2015,0.819,18.1,262.5
+Gevra Open Cast,2016,0.158,35.72,312.2
+Gevra Open Cast,2017,0.741,20.02,569.1
+Gevra Open Cast,2018,0.406,36.8,379.5
+Gevra Open Cast,2019,0.469,16.07,435.9
+Gevra Open Cast,2020,0.445,23.68,514.9
+Gevra Open Cast,2021,0.711,34.1,745.4
+Gevra Open Cast,2022,0.712,21.71,918.4
+Gevra Open Cast,2023,0.125,33.11,370.7
+Gevra Open Cast,2024,0.706,18.14,467.2
+Dipka Coal Mine,2008,0.397,16.63,816.6
+Dipka Coal Mine,2009,0.62,23.51,739.6
+Dipka Coal Mine,2010,0.821,11.82,1052.5
+Dipka Coal Mine,2011,0.421,42.72,1165.2
+Dipka Coal Mine,2012,0.732,27.68,1119.8
+Dipka Coal Mine,2013,0.39,39.77,1183.1
+Dipka Coal Mine,2014,0.256,27.7,939.2
+Dipka Coal Mine,2015,0.867,8.57,422.6
+Dipka Coal Mine,2016,0.611,43.13,269.6
+Dipka Coal Mine,2017,0.312,29.09,887.4
+Dipka Coal Mine,2018,0.376,21.58,392.2
+Dipka Coal Mine,2019,0.838,22.48,926.4
+Dipka Coal Mine,2020,0.38,40.49,223.1
+Dipka Coal Mine,2021,0.754,7.39,1120.4
+Dipka Coal Mine,2022,0.325,32.04,230.0
+Dipka Coal Mine,2023,0.247,31.97,427.4
+Dipka Coal Mine,2024,0.208,5.81,1037.0
+Jayant Coal Mine,2008,0.818,41.35,1016.6
+Jayant Coal Mine,2009,0.89,13.41,734.9
+Jayant Coal Mine,2010,0.362,11.69,421.9
+Jayant Coal Mine,2011,0.353,42.62,811.2
+Jayant Coal Mine,2012,0.623,5.16,538.9
+Jayant Coal Mine,2013,0.423,12.82,661.8
+Jayant Coal Mine,2014,0.638,33.94,1007.2
+Jayant Coal Mine,2015,0.184,12.42,719.4
+Jayant Coal Mine,2016,0.848,30.85,442.3
+Jayant Coal Mine,2017,0.775,31.12,1128.2
+Jayant Coal Mine,2018,0.728,34.49,425.1
+Jayant Coal Mine,2019,0.418,28.11,1090.2
+Jayant Coal Mine,2020,0.234,35.98,1010.9
+Jayant Coal Mine,2021,0.114,37.75,423.8
+Jayant Coal Mine,2022,0.516,13.06,542.9
+Jayant Coal Mine,2023,0.59,13.11,699.2
+Jayant Coal Mine,2024,0.56,19.74,831.5
+Rajrappa Coal Mine,2008,0.702,12.85,690.0
+Rajrappa Coal Mine,2009,0.775,31.1,319.8
+Rajrappa Coal Mine,2010,0.711,12.48,389.7
+Rajrappa Coal Mine,2011,0.196,20.99,590.2
+Rajrappa Coal Mine,2012,0.538,41.44,240.0
+Rajrappa Coal Mine,2013,0.211,6.46,860.1
+Rajrappa Coal Mine,2014,0.847,22.06,482.7
+Rajrappa Coal Mine,2015,0.58,23.91,1077.4
+Rajrappa Coal Mine,2016,0.187,26.68,884.4
+Rajrappa Coal Mine,2017,0.178,14.58,383.2
+Rajrappa Coal Mine,2018,0.306,29.42,893.3
+Rajrappa Coal Mine,2019,0.242,11.82,1177.0
+Rajrappa Coal Mine,2020,0.583,12.86,395.3
+Rajrappa Coal Mine,2021,0.64,25.67,783.9
+Rajrappa Coal Mine,2022,0.752,32.53,1198.5
+Rajrappa Coal Mine,2023,0.287,20.05,714.6
+Rajrappa Coal Mine,2024,0.877,20.21,889.9
+Jitpur Colliery,2008,0.501,17.88,223.0
+Jitpur Colliery,2009,0.156,28.15,962.7
+Jitpur Colliery,2010,0.482,5.34,602.7
+Jitpur Colliery,2011,0.239,41.44,469.4
+Jitpur Colliery,2012,0.132,13.22,1025.8
+Jitpur Colliery,2013,0.535,21.48,268.3
+Jitpur Colliery,2014,0.708,41.65,1065.7
+Jitpur Colliery,2015,0.663,35.38,973.2
+Jitpur Colliery,2016,0.734,28.66,1080.6
+Jitpur Colliery,2017,0.456,17.66,653.8
+Jitpur Colliery,2018,0.25,40.59,874.1
+Jitpur Colliery,2019,0.722,9.14,1187.7
+Jitpur Colliery,2020,0.892,7.8,948.3
+Jitpur Colliery,2021,0.266,31.65,1138.3
+Jitpur Colliery,2022,0.376,27.78,315.2
+Jitpur Colliery,2023,0.683,16.95,340.6
+Jitpur Colliery,2024,0.611,38.42,852.0
+Kaniha Coal Mine,2008,0.866,38.65,985.4
+Kaniha Coal Mine,2009,0.846,7.84,580.4
+Kaniha Coal Mine,2010,0.358,41.98,400.8
+Kaniha Coal Mine,2011,0.462,12.61,1068.7
+Kaniha Coal Mine,2012,0.23,5.26,703.5
+Kaniha Coal Mine,2013,0.878,5.2,596.3
+Kaniha Coal Mine,2014,0.813,38.21,1100.2
+Kaniha Coal Mine,2015,0.778,25.3,380.4
+Kaniha Coal Mine,2016,0.708,13.07,983.7
+Kaniha Coal Mine,2017,0.652,5.32,416.5
+Kaniha Coal Mine,2018,0.261,13.92,710.5
+Kaniha Coal Mine,2019,0.773,9.79,1113.6
+Kaniha Coal Mine,2020,0.211,33.9,466.4
+Kaniha Coal Mine,2021,0.536,6.25,281.6
+Kaniha Coal Mine,2022,0.736,7.64,216.0
+Kaniha Coal Mine,2023,0.158,22.83,780.6
+Kaniha Coal Mine,2024,0.357,21.24,1150.9
+Topa Coal Mine,2008,0.42,35.3,1152.4
+Topa Coal Mine,2009,0.369,16.28,1124.4
+Topa Coal Mine,2010,0.325,13.23,626.1
+Topa Coal Mine,2011,0.719,39.73,923.8
+Topa Coal Mine,2012,0.862,10.85,513.6
+Topa Coal Mine,2013,0.87,38.52,234.1
+Topa Coal Mine,2014,0.833,32.79,597.8
+Topa Coal Mine,2015,0.512,32.43,974.3
+Topa Coal Mine,2016,0.7,27.24,664.5
+Topa Coal Mine,2017,0.535,6.98,784.0
+Topa Coal Mine,2018,0.518,16.35,543.6
+Topa Coal Mine,2019,0.322,15.36,319.1
+Topa Coal Mine,2020,0.848,41.55,456.2
+Topa Coal Mine,2021,0.287,8.94,858.7
+Topa Coal Mine,2022,0.708,12.4,264.6
+Topa Coal Mine,2023,0.717,10.67,743.2
+Topa Coal Mine,2024,0.66,7.51,631.3
+Amrapali Coal Mine,2008,0.434,6.91,576.0
+Amrapali Coal Mine,2009,0.223,18.75,1107.5
+Amrapali Coal Mine,2010,0.23,25.12,238.9
+Amrapali Coal Mine,2011,0.838,32.51,385.2
+Amrapali Coal Mine,2012,0.281,34.1,1066.9
+Amrapali Coal Mine,2013,0.281,43.69,354.8
+Amrapali Coal Mine,2014,0.128,30.48,206.6
+Amrapali Coal Mine,2015,0.591,32.98,1075.4
+Amrapali Coal Mine,2016,0.837,27.75,839.9
+Amrapali Coal Mine,2017,0.23,13.31,431.6
+Amrapali Coal Mine,2018,0.521,11.17,600.9
+Amrapali Coal Mine,2019,0.309,12.49,763.4
+Amrapali Coal Mine,2020,0.69,22.9,383.8
+Amrapali Coal Mine,2021,0.29,30.77,723.7
+Amrapali Coal Mine,2022,0.187,16.27,1197.1
+Amrapali Coal Mine,2023,0.269,26.7,388.4
+Amrapali Coal Mine,2024,0.57,36.57,653.4
+Magadh Coal Project,2008,0.176,43.26,210.1
+Magadh Coal Project,2009,0.611,21.55,250.6
+Magadh Coal Project,2010,0.604,7.77,1182.3
+Magadh Coal Project,2011,0.206,39.04,215.0
+Magadh Coal Project,2012,0.6,21.9,1060.9
+Magadh Coal Project,2013,0.147,12.3,817.7
+Magadh Coal Project,2014,0.331,15.87,634.6
+Magadh Coal Project,2015,0.683,17.75,694.6
+Magadh Coal Project,2016,0.163,41.37,1069.7
+Magadh Coal Project,2017,0.404,34.88,665.2
+Magadh Coal Project,2018,0.148,26.24,1091.4
+Magadh Coal Project,2019,0.734,5.62,999.6
+Magadh Coal Project,2020,0.262,41.2,708.5
+Magadh Coal Project,2021,0.584,28.23,769.8
+Magadh Coal Project,2022,0.629,26.93,1139.8
+Magadh Coal Project,2023,0.674,36.71,282.9
+Magadh Coal Project,2024,0.494,22.4,225.3
+Khairagarh Limestone Mine,2008,0.787,23.63,1142.2
+Khairagarh Limestone Mine,2009,0.386,43.46,611.6
+Khairagarh Limestone Mine,2010,0.84,32.6,1127.1
+Khairagarh Limestone Mine,2011,0.885,17.13,1136.4
+Khairagarh Limestone Mine,2012,0.512,23.22,871.0
+Khairagarh Limestone Mine,2013,0.267,38.92,422.3
+Khairagarh Limestone Mine,2014,0.235,23.81,314.2
+Khairagarh Limestone Mine,2015,0.593,9.93,318.3
+Khairagarh Limestone Mine,2016,0.83,13.22,654.0
+Khairagarh Limestone Mine,2017,0.508,9.98,468.0
+Khairagarh Limestone Mine,2018,0.59,9.27,230.4
+Khairagarh Limestone Mine,2019,0.831,37.07,846.5
+Khairagarh Limestone Mine,2020,0.238,33.1,798.9
+Khairagarh Limestone Mine,2021,0.595,41.24,460.6
+Khairagarh Limestone Mine,2022,0.762,13.8,364.6
+Khairagarh Limestone Mine,2023,0.476,28.23,911.8
+Khairagarh Limestone Mine,2024,0.694,5.31,490.2
+Rani Atari Iron Mine,2008,0.165,11.17,365.7
+Rani Atari Iron Mine,2009,0.559,15.55,822.7
+Rani Atari Iron Mine,2010,0.141,41.9,797.6
+Rani Atari Iron Mine,2011,0.397,22.61,1047.7
+Rani Atari Iron Mine,2012,0.549,13.92,1084.4
+Rani Atari Iron Mine,2013,0.324,20.74,613.5
+Rani Atari Iron Mine,2014,0.641,30.46,640.4
+Rani Atari Iron Mine,2015,0.479,25.97,617.5
+Rani Atari Iron Mine,2016,0.373,21.5,763.6
+Rani Atari Iron Mine,2017,0.75,28.99,772.8
+Rani Atari Iron Mine,2018,0.479,28.0,866.2
+Rani Atari Iron Mine,2019,0.831,42.94,1027.6
+Rani Atari Iron Mine,2020,0.733,39.34,857.6
+Rani Atari Iron Mine,2021,0.324,16.33,980.1
+Rani Atari Iron Mine,2022,0.37,24.98,378.8
+Rani Atari Iron Mine,2023,0.213,38.14,655.6
+Rani Atari Iron Mine,2024,0.508,39.71,982.0
+Gua Iron Ore Mine,2008,0.335,9.86,594.4
+Gua Iron Ore Mine,2009,0.742,12.22,756.4
+Gua Iron Ore Mine,2010,0.288,15.65,443.9
+Gua Iron Ore Mine,2011,0.541,30.8,519.8
+Gua Iron Ore Mine,2012,0.346,22.72,411.2
+Gua Iron Ore Mine,2013,0.158,38.78,1059.4
+Gua Iron Ore Mine,2014,0.259,26.52,916.3
+Gua Iron Ore Mine,2015,0.711,40.88,670.5
+Gua Iron Ore Mine,2016,0.797,5.64,982.3
+Gua Iron Ore Mine,2017,0.687,5.02,836.9
+Gua Iron Ore Mine,2018,0.302,28.63,342.7
+Gua Iron Ore Mine,2019,0.831,10.44,689.7
+Gua Iron Ore Mine,2020,0.207,37.67,635.0
+Gua Iron Ore Mine,2021,0.405,11.97,1180.8
+Gua Iron Ore Mine,2022,0.399,25.45,222.7
+Gua Iron Ore Mine,2023,0.376,38.16,1021.6
+Gua Iron Ore Mine,2024,0.528,5.84,384.0
+Panchpatmali Bauxite Mine,2008,0.184,35.11,1046.2
+Panchpatmali Bauxite Mine,2009,0.888,22.37,1001.5
+Panchpatmali Bauxite Mine,2010,0.477,19.11,957.5
+Panchpatmali Bauxite Mine,2011,0.187,29.76,769.9
+Panchpatmali Bauxite Mine,2012,0.453,12.1,1038.3
+Panchpatmali Bauxite Mine,2013,0.107,44.02,956.3
+Panchpatmali Bauxite Mine,2014,0.442,22.13,696.4
+Panchpatmali Bauxite Mine,2015,0.658,16.43,536.5
+Panchpatmali Bauxite Mine,2016,0.765,43.2,385.6
+Panchpatmali Bauxite Mine,2017,0.434,34.12,345.1
+Panchpatmali Bauxite Mine,2018,0.757,33.6,754.2
+Panchpatmali Bauxite Mine,2019,0.433,29.34,816.0
+Panchpatmali Bauxite Mine,2020,0.316,41.82,742.5
+Panchpatmali Bauxite Mine,2021,0.543,30.97,697.4
+Panchpatmali Bauxite Mine,2022,0.835,9.91,1129.5
+Panchpatmali Bauxite Mine,2023,0.543,21.86,1109.1
+Panchpatmali Bauxite Mine,2024,0.745,29.38,276.5
+Nalco Damanjodi Mine,2008,0.333,7.63,1157.8
+Nalco Damanjodi Mine,2009,0.675,37.04,1024.7
+Nalco Damanjodi Mine,2010,0.372,7.93,980.6
+Nalco Damanjodi Mine,2011,0.608,16.89,866.2
+Nalco Damanjodi Mine,2012,0.22,32.23,763.1
+Nalco Damanjodi Mine,2013,0.138,37.08,620.5
+Nalco Damanjodi Mine,2014,0.88,27.85,1022.3
+Nalco Damanjodi Mine,2015,0.499,26.0,734.6
+Nalco Damanjodi Mine,2016,0.776,21.42,419.7
+Nalco Damanjodi Mine,2017,0.616,39.19,702.5
+Nalco Damanjodi Mine,2018,0.832,9.89,722.4
+Nalco Damanjodi Mine,2019,0.685,24.4,689.5
+Nalco Damanjodi Mine,2020,0.657,17.71,213.1
+Nalco Damanjodi Mine,2021,0.287,31.37,670.2
+Nalco Damanjodi Mine,2022,0.417,19.93,668.5
+Nalco Damanjodi Mine,2023,0.419,44.58,506.9
+Nalco Damanjodi Mine,2024,0.583,9.07,1053.7
+Turamdih Uranium Mine,2008,0.855,10.18,1136.8
+Turamdih Uranium Mine,2009,0.638,41.28,631.1
+Turamdih Uranium Mine,2010,0.42,38.47,573.7
+Turamdih Uranium Mine,2011,0.839,21.23,288.3
+Turamdih Uranium Mine,2012,0.492,13.79,1141.5
+Turamdih Uranium Mine,2013,0.702,31.19,306.9
+Turamdih Uranium Mine,2014,0.85,44.37,312.6
+Turamdih Uranium Mine,2015,0.406,32.65,641.0
+Turamdih Uranium Mine,2016,0.339,20.29,783.4
+Turamdih Uranium Mine,2017,0.834,26.36,965.8
+Turamdih Uranium Mine,2018,0.138,42.2,958.8
+Turamdih Uranium Mine,2019,0.35,40.13,968.8
+Turamdih Uranium Mine,2020,0.533,17.02,488.7
+Turamdih Uranium Mine,2021,0.3,22.82,605.0
+Turamdih Uranium Mine,2022,0.24,38.05,346.8
+Turamdih Uranium Mine,2023,0.848,42.28,881.5
+Turamdih Uranium Mine,2024,0.548,13.87,685.4
+Tummalapalle Uranium Mine,2008,0.568,36.7,812.3
+Tummalapalle Uranium Mine,2009,0.715,8.79,1073.6
+Tummalapalle Uranium Mine,2010,0.703,34.53,795.3
+Tummalapalle Uranium Mine,2011,0.386,34.83,257.5
+Tummalapalle Uranium Mine,2012,0.747,37.82,352.5
+Tummalapalle Uranium Mine,2013,0.507,37.29,931.2
+Tummalapalle Uranium Mine,2014,0.128,28.44,571.1
+Tummalapalle Uranium Mine,2015,0.756,20.24,798.0
+Tummalapalle Uranium Mine,2016,0.687,16.59,1014.7
+Tummalapalle Uranium Mine,2017,0.131,37.94,496.8
+Tummalapalle Uranium Mine,2018,0.292,9.39,923.2
+Tummalapalle Uranium Mine,2019,0.248,5.28,1067.0
+Tummalapalle Uranium Mine,2020,0.633,40.02,672.0
+Tummalapalle Uranium Mine,2021,0.384,30.38,968.3
+Tummalapalle Uranium Mine,2022,0.561,32.85,670.7
+Tummalapalle Uranium Mine,2023,0.572,8.39,1109.1
+Tummalapalle Uranium Mine,2024,0.807,17.53,480.2
+Zawar Zinc Mine,2008,0.397,10.03,206.2
+Zawar Zinc Mine,2009,0.896,34.75,332.4
+Zawar Zinc Mine,2010,0.837,40.36,360.7
+Zawar Zinc Mine,2011,0.313,5.37,877.6
+Zawar Zinc Mine,2012,0.314,42.86,232.3
+Zawar Zinc Mine,2013,0.842,14.12,765.0
+Zawar Zinc Mine,2014,0.513,31.43,916.7
+Zawar Zinc Mine,2015,0.249,18.13,1104.3
+Zawar Zinc Mine,2016,0.597,34.11,492.8
+Zawar Zinc Mine,2017,0.524,27.28,338.2
+Zawar Zinc Mine,2018,0.357,38.32,328.6
+Zawar Zinc Mine,2019,0.34,7.12,551.7
+Zawar Zinc Mine,2020,0.892,10.49,949.0
+Zawar Zinc Mine,2021,0.252,31.38,361.2
+Zawar Zinc Mine,2022,0.711,11.14,262.3
+Zawar Zinc Mine,2023,0.281,32.85,1124.0
+Zawar Zinc Mine,2024,0.296,20.4,729.3
+Rampura Agucha Mine,2008,0.29,34.12,1195.2
+Rampura Agucha Mine,2009,0.857,32.26,970.3
+Rampura Agucha Mine,2010,0.506,16.95,850.5
+Rampura Agucha Mine,2011,0.313,13.13,1019.9
+Rampura Agucha Mine,2012,0.404,30.84,598.0
+Rampura Agucha Mine,2013,0.564,18.0,619.7
+Rampura Agucha Mine,2014,0.457,13.37,832.2
+Rampura Agucha Mine,2015,0.769,26.15,902.2
+Rampura Agucha Mine,2016,0.343,20.5,708.8
+Rampura Agucha Mine,2017,0.332,12.7,1005.0
+Rampura Agucha Mine,2018,0.772,30.73,906.7
+Rampura Agucha Mine,2019,0.282,26.71,1053.4
+Rampura Agucha Mine,2020,0.231,8.37,804.4
+Rampura Agucha Mine,2021,0.231,29.02,724.9
+Rampura Agucha Mine,2022,0.612,30.91,693.7
+Rampura Agucha Mine,2023,0.163,22.22,688.1
+Rampura Agucha Mine,2024,0.545,29.82,745.7
+Sindesar Khurd Mine,2008,0.802,34.15,1189.1
+Sindesar Khurd Mine,2009,0.208,24.5,505.3
+Sindesar Khurd Mine,2010,0.896,15.3,625.8
+Sindesar Khurd Mine,2011,0.827,41.27,928.6
+Sindesar Khurd Mine,2012,0.667,27.27,797.1
+Sindesar Khurd Mine,2013,0.594,24.21,813.5
+Sindesar Khurd Mine,2014,0.265,29.03,344.1
+Sindesar Khurd Mine,2015,0.535,18.09,216.7
+Sindesar Khurd Mine,2016,0.826,32.56,1193.9
+Sindesar Khurd Mine,2017,0.385,42.05,1021.1
+Sindesar Khurd Mine,2018,0.406,14.47,719.5
+Sindesar Khurd Mine,2019,0.873,9.58,203.1
+Sindesar Khurd Mine,2020,0.132,36.34,813.5
+Sindesar Khurd Mine,2021,0.121,5.9,521.8
+Sindesar Khurd Mine,2022,0.448,10.57,775.1
+Sindesar Khurd Mine,2023,0.525,8.07,630.7
+Sindesar Khurd Mine,2024,0.191,29.18,226.5
+Kolihan Copper Mine,2008,0.715,26.32,946.1
+Kolihan Copper Mine,2009,0.534,35.61,453.2
+Kolihan Copper Mine,2010,0.706,30.72,444.4
+Kolihan Copper Mine,2011,0.778,13.23,1146.4
+Kolihan Copper Mine,2012,0.64,35.92,817.1
+Kolihan Copper Mine,2013,0.822,31.87,1082.9
+Kolihan Copper Mine,2014,0.582,31.13,1094.4
+Kolihan Copper Mine,2015,0.353,29.06,741.9
+Kolihan Copper Mine,2016,0.436,14.7,692.4
+Kolihan Copper Mine,2017,0.667,27.06,436.7
+Kolihan Copper Mine,2018,0.173,9.44,795.4
+Kolihan Copper Mine,2019,0.419,8.56,888.3
+Kolihan Copper Mine,2020,0.857,32.05,762.1
+Kolihan Copper Mine,2021,0.178,44.95,203.0
+Kolihan Copper Mine,2022,0.847,15.67,896.9
+Kolihan Copper Mine,2023,0.136,18.66,559.2
+Kolihan Copper Mine,2024,0.508,8.29,575.8
+Khetri Copper Mine,2008,0.555,24.35,932.5
+Khetri Copper Mine,2009,0.553,17.53,799.7
+Khetri Copper Mine,2010,0.252,7.13,270.9
+Khetri Copper Mine,2011,0.424,27.41,306.1
+Khetri Copper Mine,2012,0.759,6.55,633.7
+Khetri Copper Mine,2013,0.71,10.4,348.6
+Khetri Copper Mine,2014,0.472,6.35,908.9
+Khetri Copper Mine,2015,0.455,21.67,717.1
+Khetri Copper Mine,2016,0.527,36.01,497.3
+Khetri Copper Mine,2017,0.254,41.07,432.5
+Khetri Copper Mine,2018,0.418,19.39,1056.0
+Khetri Copper Mine,2019,0.709,41.09,853.4
+Khetri Copper Mine,2020,0.156,27.47,490.6
+Khetri Copper Mine,2021,0.298,6.98,408.4
+Khetri Copper Mine,2022,0.279,15.59,955.0
+Khetri Copper Mine,2023,0.118,14.29,558.5
+Khetri Copper Mine,2024,0.331,27.65,444.5
+Banwas Copper Mine,2008,0.36,12.06,780.0
+Banwas Copper Mine,2009,0.298,30.39,759.7
+Banwas Copper Mine,2010,0.402,5.98,518.7
+Banwas Copper Mine,2011,0.672,23.4,343.2
+Banwas Copper Mine,2012,0.786,13.33,924.2
+Banwas Copper Mine,2013,0.724,43.75,674.5
+Banwas Copper Mine,2014,0.106,12.3,964.2
+Banwas Copper Mine,2015,0.365,32.44,911.2
+Banwas Copper Mine,2016,0.268,25.81,249.0
+Banwas Copper Mine,2017,0.709,33.54,668.5
+Banwas Copper Mine,2018,0.715,17.82,957.8
+Banwas Copper Mine,2019,0.435,20.1,948.9
+Banwas Copper Mine,2020,0.627,19.19,214.1
+Banwas Copper Mine,2021,0.473,30.68,863.9
+Banwas Copper Mine,2022,0.186,13.57,1009.8
+Banwas Copper Mine,2023,0.855,34.71,787.0
+Banwas Copper Mine,2024,0.488,38.68,1025.3
+Taregaon Limestone Mine,2008,0.808,5.86,900.8
+Taregaon Limestone Mine,2009,0.44,7.81,536.8
+Taregaon Limestone Mine,2010,0.724,39.1,347.3
+Taregaon Limestone Mine,2011,0.774,8.17,363.8
+Taregaon Limestone Mine,2012,0.33,39.7,1151.2
+Taregaon Limestone Mine,2013,0.631,21.37,935.2
+Taregaon Limestone Mine,2014,0.195,28.39,620.6
+Taregaon Limestone Mine,2015,0.541,35.53,962.4
+Taregaon Limestone Mine,2016,0.506,6.13,522.7
+Taregaon Limestone Mine,2017,0.348,14.78,203.4
+Taregaon Limestone Mine,2018,0.207,39.72,617.7
+Taregaon Limestone Mine,2019,0.71,44.97,628.5
+Taregaon Limestone Mine,2020,0.647,35.06,698.7
+Taregaon Limestone Mine,2021,0.319,35.56,455.5
+Taregaon Limestone Mine,2022,0.787,22.79,593.7
+Taregaon Limestone Mine,2023,0.524,31.81,835.5
+Taregaon Limestone Mine,2024,0.15,24.46,1023.4
+Ras Limestone Mine,2008,0.161,42.48,947.8
+Ras Limestone Mine,2009,0.522,29.61,431.9
+Ras Limestone Mine,2010,0.126,35.29,774.2
+Ras Limestone Mine,2011,0.623,34.02,351.2
+Ras Limestone Mine,2012,0.631,12.84,524.4
+Ras Limestone Mine,2013,0.8,17.69,442.0
+Ras Limestone Mine,2014,0.23,35.26,357.7
+Ras Limestone Mine,2015,0.2,32.72,535.7
+Ras Limestone Mine,2016,0.333,33.87,1036.3
+Ras Limestone Mine,2017,0.146,5.31,703.7
+Ras Limestone Mine,2018,0.486,44.71,526.0
+Ras Limestone Mine,2019,0.879,13.7,560.4
+Ras Limestone Mine,2020,0.177,11.44,274.7
+Ras Limestone Mine,2021,0.86,15.09,1067.4
+Ras Limestone Mine,2022,0.895,16.12,486.9
+Ras Limestone Mine,2023,0.9,13.75,1092.9
+Ras Limestone Mine,2024,0.619,10.81,921.8
