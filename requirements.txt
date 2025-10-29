@@ -1,7 +1,8 @@
-
+plotly
 earthengine-api
 pandas
 numpy
 scikit-learn
 joblib
 streamlit
+
